@@ -1,0 +1,187 @@
+GÜNTHER WASSER
+Leiter Informationstechnologie (ICT)
+Kornweg 7
+5502 Hunzenschwil
+Aargau / Schweiz
+Mobile: +41 (78) 692 72 06
+guenther.wasser@gmail.com
+
+Profil:
+*	Leistungsorientierter, sehr erfahrener und professioneller ICT-Leiter
+*	Meine Stärke: komplexe IT-Projekte im Rahmen der gegebenen Sicherheitsanforderungen, Kosten und Zeitgrenzen umzusetzen
+*	9 Jahren Fachführung von 5 Standorten der Swiss Casinos Gruppe im technischen Bereich sowie Ausbildung der Mitarbeiter in unterschiedlichen Bereichen
+*	Ausprägung für: Business-Anforderungen verstehen, optimale strategische Architekturen entwickeln, Planung realisieren
+*	Ich liebe es Projekte zu leiten und Teams über eine direkte und ausgewogene Kommunikation zu sehr guten Ergebnissen zu führen.
+*	Mein Ziel: ein ICT-Team direkt leiten und dabei anspruchsvolle und zukunftsweisende Projekte und Informationssicherheitskonzepte für das Business zu realisieren.
+
+
+--- Berufliche Erfahrung ----------------------
+10/2008  bis  12/2017
+Leiter Informationstechnologie (ICT)
+Swiss Casinos Service AG Zürich, Schweiz
+Leitung, Design, Erweiterung und Wartung der kompletten IT-Infrastruktur (160 Server, 200 Clients, 90 VLANs, 300 User) für die Swiss Casinos Gruppe mit 6 Standorten
+Koordination des Outsourcingpartners für den Backoffice und ERP Bereich
+Verantwortung über ein Jahresbudget von mehr als CHF 1'500'000,- (CAPEX & OPEX)
+Konzeption und Projektleitung aller IT relevanten gruppenweiten Massnahmen sowie Informationssicherheitsbeauftragter der Swiss Casinos Gruppe
+Ausgewählte IT-Projekte:
+*	Konzeptionierung, Evaluation und Implementation der Hardwareablöse von Netzwerk, Server & SAN für 5 Casino Standorte, ohne Unterbrechung des Geschäftsbetriebes, durch sorgfältige Kontrolle aller vorkonfigurierten Geräte und terminliche Abstimmung des gesamten Austauschprozesses
+*	Design, Planung und Koordination des Wechsels zweier Outsourcingpartner.
+*	Entwicklung, Bereinigung und Zusammenführung von 6 Active Directory Domains auf eine zentrale AD Domain bei Beibehaltung von Ausfallsicherheit und Vereinfachung der Verwaltung.
+*	Konzeptionierung und Einführung des Betriebs- und Sicherheitskonzeptes des neueröffneten Swiss Casinos Zürich (2012)
+*	Mitarbeiterschulung zum Thema Informationssicherheit und Passwortschutz
+*	Konzipieren der Migration und Upgrade der Citrix Umgebung von 6.5 auf 7.6 inkl. Prüfung der Erweiterung von Funktionalitäten wie ShareFile und mobiler Nutzung.
+*	Einführung eines Ticketsystems zur zentralen Verwaltung und Optimierung der internen IT-Supportleistung für die Swiss Casinos Gruppe
+*	Ausarbeitung und Realisierung einer Langzeitarchivierungslösung von DB-Daten inkl. anschliessender Optimierung der DB.
+*	Durchführung eines internen Audits des Outsourcingpartners und in der Swiss Casinos Gruppe 
+*	Einführung einer Vertragsverwaltungslösung für die gesamte Swiss Casinos Gruppe inkl. Review und Freigabeprozess
+
+08/2005  bis  08/2008
+ICT-Leiter (Mitglied der Geschäftsleitung)
+Casinos Austria International Brüssel, Belgien
+Überwachung und Wartung sowie Fernwartung des Casino Onlinesystem: OCM Open Casino Manager von Bally Gaming Technologies. 
+Leitung, Design, Erweiterung und Wartung der kompletten Casino Informations- und Kommunikationslandschaft, inklusive Server-Umgebung, multimedialen Informations- und Sound-System, sowie der Ausstattung in den Konferenz- und Veranstaltungsräumen.
+*	Leitete alle technische Belange bis zur Eröffnung des "Grand Casino Brüssel" (heute VIAGE), welches in der Zeit und dem gesetzten IT-Kostenrahmen von 1.5 Million Euro (IT-Budget) eröffnete.
+*	Verantwortung über ein Jahresbudget von 400,000 Euros
+
+06/2002  bis  07/2005
+Customer Support Engineer; Installer; Trainer
+IGT (GRIPS Electronics) Penang; Malaysien (06/2004 - 07/2005)
+Ausführung von Installationen und Implementation von neuen Casino Projekten in der asiatischen Region, hauptsächlich Singapur und den Philippinen.
+*	Ausführung von kundenbezogenen, spezialisierten Trainings am installierten System sowie die "Go-live" Unterstützung. Alle Casinos (verantwortlich für 3 Casinos) eröffneten am termingerecht mit gut ausgebildetem Personal.
+Customer Support Engineer
+IGT (GRIPS Electronics) Graz; Österreich 06/2002 - 06/2004
+*	Telefonische- bzw. Fernwartung des Casino Management System, "GALAXIS," inklusive Slot, Tisch und Kasse.
+
+07/2001  bis  06/2002
+Sprachaufenthalt in Australien
+
+09/1996  bis  06/2001
+Bautechniker
+CIVIL ENGINEER G.K. SCHINDLER Graz, Austria
+*	Zeichnen von technischen Plänen für Wohn- und Industriebauten
+
+--- Zertifikate ----------------------------
+1.	CISM - Certified Information Security Manager by ISACA
+2.	ITIL V2 - Information Technology Infrastructure Library Foundation
+3.	NPP - Nutanix Platform Professional V4.5
+4.	Software Development Certification des WIFI-Österreich
+
+--- Ausbildung ---------------------------
+05/2017   Nutanix Zertifizierungskurs; BCD-Sintrag AG, Zürich, Schweiz
+02/2014   MCP - Win7, Enterprise Desktop Support Technician ; NewHorizon AG, Zürich, Schweiz
+2009      CISM Zertifizierungskurs; ITACS, Zürich, Schweiz
+2006      ITIL - Foundation Course; Brüssel, Belgien
+2001      Englisch Language Course; Embassy CES, Cairns, Australien
+2000-2001 Software Entwickler Ausbildung; Wirtschaftsförderungsinstitut, Graz, Österreich
+1994-1995 Telematik Studium (nicht abgeschlossen); Technische Universität von Graz, Österreich
+1989-1994 Ausbildung zum Bauingenieur; Höhere Technische Lehranstalt, Graz, Österreich
+
+--- Militärdienst --------------------------
+1995-1996 Österreichisches Bundesheer - Pioneer 
+Ehrenhafte Entlassung nach abgeschlossener Ausbildung zum Truppenführer
+
+--- Zivildienstliche Aktivitäten --------------------
+1994-1995 Mitglied des Vorstandes im Jugendzentrum
+1992-1994 Leiter einer Katholischen Jugendgruppe (Graz - Puntigam, Austria)
+
+--- Interessen & Hobbys ----------------------
+*	Podcasts anhören
+  o	TWIT Folgen	[Technik News]
+    -	Security Now	[Security News]
+    -	AAA	[Android News]
+    -	TWET	[Enterprise News]
+    -	WW	[Windows News]
+    -	TWIG	[Google News]
+  o	Manager Tools	[Management]
+  o	Robin Sharma Master Session	[Management]
+  o	Tim Ferries Show 	[Management]
+*	Aikido Trainer (Lenzburg)
+*	Familie
+*	Lesen & Audiobücher
+  o	Leadership & Management
+  o	Fantasy & Science Fiction
+
+--- Persönliches --------------------------
+Kornweg 7, 5502 Hunzenschwil, +41 (78) 692 72 06, guenther.wasser@gmail.com
+www.linkedin.com/in/guenther-wasser
+www.xing.com/profile/Guenther_Wasser
+Geboren am 8.8.1974 in Graz / Österreich
+Staatsangehörigkeit:  Österreich
+Familienstand:        Verheiratet
+Mobilität:	          Fahrzeugausweis B
+ 
+--- Sprachen und Skills -----------------------
+--- Sprachen ---
+Deutsch   Muttersprache
+  Mündlich	fliessend
+  Schriftlich	fliessend
+Englisch
+  Mündlich	sehr gut
+  Schriftlich	sehr gut
+
+--- Führungserfahrung ---
+Erfahrung;      Anzahl Jahre;   Anzahl Mitarbeiter
+Projektleitung          13          4-8
+Gruppen-, Teamleitung   13          4-8
+Abteilungs-, Bereichsleitung  12    4-8
+
+--- Technisches --------------------------
+•	E-Government Architecture:
+  -	ITIL Foundation Exam
+  -	CISM Exam of ISACA 
+•	Software:
+  -	GALAXIS Lösung für Casinos von IGT
+  -	Open Casino Manager von Bally Technologies
+  -	Microsoft Office 2000-2016
+  -	MS Dynamics AX
+  -	Libre Office, Lotus Notes
+  -	Veeam Backup & Replication
+  -	vRanger Backup & Replication
+•	Hardware:
+  -	Nutanix, DELL, HP, IBM Server
+  -	IBM Storage, EMC Storage Systems, NetAPP, Nutanix
+  -	HP Managed Network Switches 
+  - DELL Managed Network Switches
+•	Betriebssysteme: 
+  -	DOS / Windows 3.0 - Win10
+  -	Unix, SuSE Linux, HP-UX, FreeBSD
+  -	MAC OS X
+•	Programmiersprachen: 
+  -	HTML 5, Java Script, CSS
+  -	Python, Perl, SQL, Java
+  -	C++, Visual Basic
+  -	XML, XSLT
+•	Databanken:
+  -	Oracle 8i - 11g Administration
+  -	MS SQL Server 2000 - 2008R2 Administration, 
+  -	DB2 Version 7 Administration
+  -	MySQL/Maria DB, PostgreSQL
+•	Server: 
+  -	MS Windows NT4 - 2008R2
+  -	Implementation, Maintenance
+•	Internet & Network Technologien:
+  -	Grundkenntnisse L.A.M.P.
+  -	Exchange 2010
+  -	Lotus Notes, MS Outlook 2003-2016
+
+--- Referenzen ---------------------------
+*	Peter Ammann, Kunden- & Sourcingberater 
+  achermann ict-services ag 
+  Grabenhofstrasse 4, CH-6010 Kriens 
+  Mobile: +41 79 336 14 02 
+  pam@achermann.ch 
+*	Marco Krättli, Cyber Security Specialist 
+  Cisco Systems Switzerland GmbH 
+  Richtistrasse 7, 8304 Wallisellen / Zürich 
+  Mobile: +41 79 200 44 66 
+  mkraettli@cisco.com 
+*	Stefan Meyer, CFO / Leiter Finanzen Swiss Casinos Gruppe 
+  Swiss Casinos Services AG 
+  Albisriederstrasse 164, 8040 Zürich 
+  Mobile: +41 79 242 74 58 
+  stefan.meyer@scgroup.ch
+*	Thomas Götti, CEO 
+  Comicro-Netsys AG 
+  Pünten 4, CH-8602 Wangen 
+  Office/Mobile: +41 44 835 75 13 
+  thomas.goetti@comicro.ch
